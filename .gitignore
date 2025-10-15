@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+.env
+calc_history.csv
